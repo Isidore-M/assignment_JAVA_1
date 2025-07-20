@@ -1,0 +1,4 @@
+ It displays columns and rows of greater than and less than 
+ 10 rows and 10 columns
+ every row has the same symbol (< or >)
+ every colums is a succession of > and <

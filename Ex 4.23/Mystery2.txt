@@ -1,0 +1,2 @@
+It Display 10 line of asterisks and + symbol (5 of each)
+one line of asterisks then one line of + symbol until the numer of lines reach 10
